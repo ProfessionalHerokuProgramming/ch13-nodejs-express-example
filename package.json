@@ -1,0 +1,12 @@
+{
+    "name": "nodedotjs-sample",
+    "version": "1.0.0",
+    "dependencies": {
+        "express": "2.5.x",
+        "pg": "0.8.2"
+    },
+    "engines": {
+        "node": "0.8.x",
+        "npm": "1.1.x"
+    }
+}
